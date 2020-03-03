@@ -1,8 +1,8 @@
-## C64 Origins Theme
+## C64 Origins / Chicuelo Remix Theme
 
-This is a RetroPie/EmulationStation theme created to match the colours and blocky font of the Commodore 64 BASIC mode. 
+This is a RetroPie theme created to match the colours and blocky font of the Commodore 64 BASIC mode. 
 
-Originally inspired by the [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), the C64 Origins theme has been thoroughly reworked to include new features such as a game details section and brand new wallpapers for every system, while also featuring new colours & fonts based on the original C64 BASIC boot screen.
+Originally based on the amazing [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), the C64 Origins theme has been reworked to include a game details section as well as new wallpapers for every system, while featuring the classic C64 font and colours. 
 
 ---
 
@@ -32,7 +32,9 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Thanks and Credits
 
-Thanks go out to Chicuelo for the original theme, to Davin Cook (http://www.devincook.com) for the amazing fonts and all other artists that have contributed artwork in any shape or form.
+All credit should go out to Chicuelo for his hard work on the original theme, to Davin Cook (http://www.devincook.com) for the amazing fonts and to all other artists and Retropie community members that have contributed artwork in any shape or form.
+
+Original thread for the Chicuelo theme can be found here: https://retropie.org.uk/forum/topic/15830/chicuelo-theme/882
 
 ###### [back to top](#c64-origins-theme)
 
@@ -42,7 +44,7 @@ Thanks go out to Chicuelo for the original theme, to Davin Cook (http://www.devi
 
 * Commodore 64 system-wide colours and fonts
 * New high quality wallpapers for all systems
-* New details section in games list
+* Added details section in games list
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
