@@ -2,7 +2,7 @@
 
 This is a RetroPie/EmulationStation theme created to match the colours and blocky font of the Commodore 64 BASIC mode. 
 
-Originally inspired by the Chicuelo theme, the C64 Origins theme has been thoroughly reworked to include new features such as a game details section and brand new wallpapers for every system, while also featuring new colours & fonts based on the original C64 BASIC boot screen.
+Originally inspired by the [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), the C64 Origins theme has been thoroughly reworked to include new features such as a game details section and brand new wallpapers for every system, while also featuring new colours & fonts based on the original C64 BASIC boot screen.
 
 ---
 
@@ -32,12 +32,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Thanks and Credits
 
-Thanks go out to Chicuelo for the original theme, to Davin Cook (http://www.devincook.com) for the amazing fonts and of course to all other artists that kindly agreed to include their art within the theme - here you can find their artwork:
-
-Ricky Romero - https://dribbble.com/RickyRomero \
-David McLeod - https://dribbble.com/Mucx \
-Craig Erskine - https://dribbble.com/craigerskine \
-Memory Noise - https://dribbble.com/memorynoise
+Thanks go out to Chicuelo for the original theme, to Davin Cook (http://www.devincook.com) for the amazing fonts and all other artists that have contributed artwork in any shape or form.
 
 ###### [back to top](#c64-origins-theme)
 
@@ -65,13 +60,13 @@ Memory Noise - https://dribbble.com/memorynoise
 3. Run in a terminal:
 
        cd ~/.emulationstation/themes
-       git clone https://github.com/c64-dev/es-c64-origins.git --branch master
+       git clone https://github.com/c64-dev/es-theme-c64-Origins.git --branch master
 
 ### Update
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
-    cd ~/.emulationstation/themes/c64-origins
+    cd ~/.emulationstation/themes/es-theme-c64-Origins
     git pull
 
 ### Theme Notes
