@@ -1,8 +1,8 @@
 ## C64 Origins / Chicuelo Remix Theme
 
-This is a RetroPie theme created to match the colours and blocky font of the Commodore 64 BASIC mode. 
+This is a RetroPie theme created to match the colours and blocky font of the Commodore 64 BASIC mode.
 
-Originally based on the amazing [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), the C64 Origins theme has been reworked to include a game details section as well as new wallpapers for every system, while featuring the classic C64 font and colours. 
+Originally based on the amazing [Chicuelo theme](https://github.com/chicueloarcade/es-theme-Chicuelo), the C64 Origins theme has been reworked to include a game details section as well as new wallpapers for every system, while featuring the classic C64 font and colours.
 
 ---
 
@@ -20,7 +20,7 @@ REQUIREMENTS:
 - Indicate changes to it
 - Publish the changes under the same license
 
-PROHIBITED:   
+PROHIBITED:
 - Commercial distribution
 
 ### Please note:
