@@ -1,4 +1,4 @@
-## C64 Origins / Chicuelo Remix Theme[](#c64-origins-theme)
+## C64 Origins / Chicuelo Remix Theme[](#top)
 
 This is a RetroPie theme created to match the colours and blocky font of the Commodore 64 BASIC mode.
 
@@ -26,7 +26,7 @@ PROHIBITED:
 ### Please note:
 By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
 
-###### [back to top](#c64-origins-theme)
+###### [back to top](#top)
 
 ---
 
@@ -36,7 +36,7 @@ All credit should go out to Chicuelo for his hard work on the original theme, to
 
 Original thread for the Chicuelo theme can be found here: https://retropie.org.uk/forum/topic/15830/chicuelo-theme/882
 
-###### [back to top](#c64-origins-theme)
+###### [back to top](#top)
 
 ---
 
@@ -49,7 +49,7 @@ Original thread for the Chicuelo theme can be found here: https://retropie.org.u
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
 
-###### [back to top](#c64-origins-theme)
+###### [back to top](#top)
 
 ---
 
@@ -77,7 +77,7 @@ This theme supports video. You can also use a scraped image in conjunction with 
 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
-###### [back to top](#c64-origins-theme)
+###### [back to top](#top)
 
 ---
 
@@ -85,7 +85,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 ![Image]
 
-###### [back to top](#c64-origins-theme)
+###### [back to top](#top)
 
 ## Partially Supported Systems
 ###### (logo and description complete, however no character background or controller/machine image is present at this time):
