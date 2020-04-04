@@ -1,4 +1,4 @@
-## C64 Origins / Chicuelo Remix Theme(#c64-origins-theme)
+## C64 Origins / Chicuelo Remix Theme[](#c64-origins-theme)
 
 This is a RetroPie theme created to match the colours and blocky font of the Commodore 64 BASIC mode.
 
